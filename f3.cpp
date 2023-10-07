@@ -17,7 +17,7 @@ int getNum(void);
 #pragma warning(disable: 4996) // required by Visual Studio
 int main()
 {
-	int n,x;
+	int n=0,x=0; //initialisation and declaration
 	printf("Enter a non negative number\n");
 	n = getNum();
 	x = isOdd(n);
