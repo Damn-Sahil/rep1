@@ -1,7 +1,7 @@
 /*
 * FILE			: f3.cpp
 * PROJECT		: Focused3
-* PROGRAMMER	: Khatri Sahil - Student(SET: C/C++ Programming)
+* PROGRAMMER	: Khatri Sahil - Student(SET: C/C++ Programming) Student ID: 8844900
 * FIRST VERSION	: September 18th, 2023
 * DESCRIPTION	: This program takes user input with the help of the provided function getNum() and determines whether the entered number
 *				  is odd or even using the parameterised function isOdd(int), thus returning either 1 or 0 and displaying the needed 
